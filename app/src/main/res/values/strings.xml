@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SDL Projection</string>
+
+    <string name="permission_request_proceed">許可する</string>
+    <string name="permission_request_cancel">許可しない</string>
+    <string name="permission_request_reason">本アプリを使用するためにストレージ/位置情報のアクセスを許可してください.</string>
+
+</resources>
