@@ -7,7 +7,7 @@ android {
     compileSdkVersion 28
     defaultConfig {
         applicationId "com.machadev.android.sdlprojection"
-        minSdkVersion 24
+        minSdkVersion 23
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"
@@ -66,7 +66,7 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.1'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
 
-    implementation 'com.smartdevicelink:sdl_android:4.+'
+    implementation 'com.smartdevicelink:sdl_android:4.11.1'
 
     // OSM
     implementation 'org.osmdroid:osmdroid-android:6.1.0'
