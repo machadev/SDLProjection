@@ -6,6 +6,10 @@
 ## 利用させていただいたソースコード、リソースについて
 このサンプルコードを作成するために以下のリソースを使用しています。
 
+### ソースコード
+* [SmartDeviceLink](https://github.com/smartdevicelink/sdl_java_suite/tree/master/android/hello_sdl_android)  -
+　[BSD 3-Clause "New" or "Revised" License](https://github.com/smartdevicelink/sdl_java_suite/blob/master/LICENSE)
+
 ### アイコン
 * [icon-rainbow](https://icon-rainbow.com/)
 
